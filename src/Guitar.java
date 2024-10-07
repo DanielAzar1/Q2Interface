@@ -6,6 +6,6 @@ public class Guitar implements Playable{
 
     public void chuckchak()
     {
-        System.out.println("vjfhftgrfgrthryirdgrytyiryduyrdfhtuyirfuyttdfhturytd");
+        System.out.println("vjfhftgrfgrthryirdgrytyiryduyrdfhtuyirfuyttdfhturyt");
     }
 }
